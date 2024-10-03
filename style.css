@@ -1,0 +1,40 @@
+body {
+    background-color: #655b47;
+    background-image: url("assets/Background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+    margin: 0;
+    margin-top: -45px;
+}
+
+h2 {
+    font-family: cursive;
+    text-align: center;
+    font-size: 30px;
+    color: #393328;
+}
+
+h3 {
+    font-family: cursive;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(132, 119, 94);
+}
+
+header {
+    background-color: #615641;
+    width: 100%;
+    height: 100px;
+    font-family: cursive;
+    text-align: center;
+    font-size: 30px;
+    color: #393328;
+}
+
+footer {
+    background-color: #615641;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
